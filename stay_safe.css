@@ -1,0 +1,65 @@
+
+.second {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.picture {
+    margin-left: 13%;
+}
+
+.rectangle1 {
+    width: 150px;
+    height: 150px;
+    background-color: #EC5863;
+    border-radius: 30px;
+    position: absolute;
+    top: 110%;
+    left: 10%;
+}
+
+.phone {
+    z-index: 1;
+    position: relative;
+}
+
+.rectangle2 {
+    width: 80px;
+    height: 80px;
+    background-color: #EC5863;
+    border-radius: 30px;
+    position: absolute;
+    top: 159%;
+    left: 27%;
+}
+
+.rectangle3 {
+    width: 80px;
+    height: 80px;
+    background-color: #EC5863;
+    border-radius: 30px;
+    position: absolute;
+    top: 174%;
+    left: 12%;
+}
+
+.discription {
+    width: 30%;
+    margin-left: 13%;
+}
+
+.h2 {
+    font-family: "Rubik", sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+.corona {
+    font-family: "Rubik", sans-serif;
+    color: #EC5863;
+}
+
+
